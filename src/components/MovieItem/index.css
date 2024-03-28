@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.trigger-button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.close-button {
+  background-color: #ffffff;
+  outline: none;
+  border: none;
+  align-self: flex-end;
+  cursor: pointer;
+}
+.video-container {
+  display: flex;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 7px;
+  flex-direction: column;
+}

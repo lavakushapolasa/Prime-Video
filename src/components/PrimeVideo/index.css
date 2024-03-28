@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.prime-app {
+  padding: 50px;
+  background-color: #000000;
+  height: 100vh;
+}
+.prime-image {
+  width: 900px;
+}
+h1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.movies-container {
+  margin: auto;
+}
